@@ -1,0 +1,11 @@
+{
+  "name": "node_ejs_biolerplate",
+  "version": "1.0.0",
+  "description": "Biolerplate showing the use of ejs as view templateenge engine in a Node.js application",
+  "author": "Jeniffer Bland",
+  "main": "server.js",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
