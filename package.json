@@ -7,5 +7,18 @@
   "dependencies": {
     "ejs": "^2.6.1",
     "express": "^4.16.4"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anarchonist7/Ejs.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anarchonist7/Ejs/issues"
+  },
+  "homepage": "https://github.com/Anarchonist7/Ejs#readme"
 }
